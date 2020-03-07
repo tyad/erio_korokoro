@@ -1,0 +1,18 @@
+body{
+	font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ",Meiryo,Arial,Verdana,"ＭＳ Ｐゴシック",sans-serif;
+}
+div{
+	text-align: center;
+}
+.result_score{
+	font-size: 30px;
+}
+.button{
+	color: #ffffff;
+	background-color: #7777ee;
+	padding: 4px 14px;
+	margin-bottom: 0;
+	font-size: 14px;
+	border: 2px solid #bbbbff;
+	border-radius: 5px;
+}
